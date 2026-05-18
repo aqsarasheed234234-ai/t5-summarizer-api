@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# AI Model Folder
+model/
+
+# Large AI Files
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.pkl
+*.h5
+*.ckpt
