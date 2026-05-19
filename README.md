@@ -58,6 +58,7 @@ uvicorn main:app --reload
 
 ## 📁 Project Structure
 
+```
 .
 ├── main.py # FastAPI application
 ├── requirements.txt # Python dependencies
@@ -69,6 +70,7 @@ uvicorn main:app --reload
 ├── tokenizer_config.json
 ├── special_tokens_map.json
 └── spiece.model
+```
 
 ---
 
