@@ -59,21 +59,22 @@ uvicorn main:app --reload
 ## 📁 Project Structure
 
 .
-├── app.py
-├── requirements.txt
-├── README.md
-└── model/
-    ├── config.json
-    ├── model.safetensors
-    ├── tokenizer_config.json
-    ├── special_tokens_map.json
-    └── spiece.model
+├── main.py                # FastAPI application
+├── requirements.txt       # Python dependencies
+├── .gitignore             # Ignored files
+├── README.md              # Project documentation
+└── models/
+├── config.json
+├── model.safetensors
+├── tokenizer_config.json
+├── special_tokens_map.json
+└── spiece.model
 
 ---
 
 ## 🧠 Training Notebook
 
-You can explore the training notebook here:
+- 📄 **T5 Summarization Notebook**
 https://www.kaggle.com/code/aqsa234/t5-with-summarization
 
 ---
