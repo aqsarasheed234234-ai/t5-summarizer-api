@@ -56,7 +56,8 @@ uvicorn main:app --reload
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
+
 .
 ├── app.py
 ├── requirements.txt
@@ -70,14 +71,14 @@ uvicorn main:app --reload
 
 ---
 
-🧠 Training Notebook
+## 🧠 Training Notebook
 
 You can explore the training notebook here:
 https://www.kaggle.com/code/aqsa234/t5-with-summarization
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 This project is designed for easy exploration. Feel free to fork it, modify it, and experiment freely. There’s no need to start from scratch — the structure is already in place to help you learn efficiently.
 
