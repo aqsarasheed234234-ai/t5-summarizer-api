@@ -59,10 +59,10 @@ uvicorn main:app --reload
 ## 📁 Project Structure
 
 .
-├── main.py                # FastAPI application
-├── requirements.txt       # Python dependencies
-├── .gitignore             # Ignored files
-├── README.md              # Project documentation
+├── main.py # FastAPI application
+├── requirements.txt # Python dependencies
+├── .gitignore # Ignored files
+├── README.md # Project documentation
 └── models/
 ├── config.json
 ├── model.safetensors
@@ -72,14 +72,19 @@ uvicorn main:app --reload
 
 ---
 
+
 ## 🧠 Training Notebook
+
 
 - 📄 **T5 Summarization Notebook**
 https://www.kaggle.com/code/aqsa234/t5-with-summarization
 
+
 ---
 
+
 ## 🤝 Contributing
+
 
 This project is designed for easy exploration. Feel free to fork it, modify it, and experiment freely. There’s no need to start from scratch — the structure is already in place to help you learn efficiently.
 
