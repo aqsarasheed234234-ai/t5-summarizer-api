@@ -35,7 +35,17 @@ This project provides a fine-tuned T5 Transformer model for automatic text summa
 
 ---
 
+## ⚙️ Run Locally
 
+```
+# Create virtual environment
+python -m venv venv
+
+# Activate environment (Windows)
+venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
 
 # Run the server
 uvicorn main:app --reload
@@ -44,6 +54,7 @@ uvicorn main:app --reload
 ---
 
 ## 📁 Project Structure
+
 
 ```
 .
