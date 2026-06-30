@@ -38,6 +38,7 @@ This project provides a fine-tuned T5 Transformer model for automatic text summa
 ## ⚙️ Run Locally
 
 ```
+
 # Create virtual environment
 python -m venv venv
 
@@ -49,8 +50,8 @@ pip install -r requirements.txt
 
 # Run the server
 uvicorn main:app --reload
-```
 
+```
 ---
 
 ## 📁 Project Structure
@@ -69,7 +70,6 @@ uvicorn main:app --reload
 ├── special_tokens_map.json
 └── spiece.model
 ```
-
 ---
 
 
@@ -78,7 +78,6 @@ uvicorn main:app --reload
 
 - 📄 **T5 Summarization Notebook**
 https://www.kaggle.com/code/aqsa234/t5-with-summarization
-
 
 ---
 
