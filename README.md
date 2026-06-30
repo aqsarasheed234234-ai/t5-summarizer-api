@@ -54,6 +54,7 @@ uvicorn main:app --reload
 ```
 ---
 
+
 ## 📁 Project Structure
 
 
@@ -69,14 +70,16 @@ uvicorn main:app --reload
 ├── tokenizer_config.json
 ├── special_tokens_map.json
 └── spiece.model
-```
----
 
+```
+
+---
 
 ## 🧠 Training Notebook
 
 
 - 📄 **T5 Summarization Notebook**
+  
 https://www.kaggle.com/code/aqsa234/t5-with-summarization
 
 ---
