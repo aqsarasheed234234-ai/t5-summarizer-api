@@ -17,11 +17,11 @@ This project provides a fine-tuned T5 Transformer model for automatic text summa
 ## ✨ Features
 
 - 📄 Accurate text summarization using T5 model  
-- ⚡ Fast and lightweight API  
-- 🔐 Secure API key authentication  
-- 🐳 Docker-ready deployment  
-- 📡 RESTful API integration  
-- 📘 Auto-generated API docs at `/docs`
+-  Fast and lightweight API  
+-  Secure API key authentication  
+-  Docker-ready deployment  
+-  RESTful API integration  
+-  Auto-generated API docs at `/docs`
 
 ---
 
