@@ -54,9 +54,7 @@ uvicorn main:app --reload
 ```
 ---
 
-
 ## 📁 Project Structure
-
 
 ```
 .
