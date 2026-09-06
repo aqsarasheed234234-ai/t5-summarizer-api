@@ -1,4 +1,3 @@
-
 ## ✨ t5-summarizer-api
 
 This project provides a fine-tuned T5 Transformer model for automatic text summarization using a FastAPI backend.
